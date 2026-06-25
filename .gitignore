@@ -1,0 +1,9 @@
+# Local repository metadata
+.git/
+
+# Local Codex workspace metadata
+.codex/
+.agents/
+
+# Local-only documentation
+docs/
